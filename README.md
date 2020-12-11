@@ -21,9 +21,9 @@ Programmiert werden soll eine Implementierung mit Hilfe von JavaScript, bei der 
 ## Mitgelieferte Dateien
 Zum Lösen des Problems werden folgende Dateien geliefert:
 
-data.json Beispielhafte Eingabe-Daten
-operations.json Beispiel für Operationen, die berechnet werden sollen.
-output.json Die Ergebnisse für die mitgelieferten Beispiel-Daten.
+- data.json Beispielhafte Eingabe-Daten
+- operations.json Beispiel für Operationen, die berechnet werden sollen.
+- output.json Die Ergebnisse für die mitgelieferten Beispiel-Daten.
 
 ## Hinweise zur Abgabe
 Das Ergebnis senden Sie bitte an alex.lizenberg@outletcity.com
