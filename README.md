@@ -6,11 +6,11 @@ Bitte erstellen Sie eine variable Datenauswertung, die mit einer Daten- (data.js
 Die Eingabedaten sind in einem einfachen Format gehalten: Ein "cities" Array enthält mehrere Objekte, die eine variable Anzahl von Properties enthalten können. In unserem Beispiel hat jedes „city“-Objekt drei Properties. Eine Property ist immer vorhanden, diese heißt „name“ und wird zur Filterung benutzt.
 
 Die Anweisungen sind ähnlich aufgebaut. Ein Array namens „operations“ enthält einzelne „operation“-Objekte. Die Operation-Objekte enthalten fünf Properties:
-name - Der für die Ausgabe zu benutzende Name.
-type - Ob das gewählte Attribut ein Kinder-Knoten oder ein Attribut ist.
-func - Die Funktion, die ausgewertet werden soll, dies kann „min“, „max“, „sum“ oder „average“ sein.
-attrib – Name der auszuwertenden Property.
-filter - Ein regulärer Ausdruck, der auf die „name“-Propertie der „city“ angewandt werden soll. Nur solche „city“s, die dem regulären Ausdruck entsprechen sollen in die Auswertung aufgenommen werden.
+- name - Der für die Ausgabe zu benutzende Name.
+- type - Ob das gewählte Attribut ein Kinder-Knoten oder ein Attribut ist.
+- func - Die Funktion, die ausgewertet werden soll, dies kann „min“, „max“, „sum“ oder „average“ sein.
+- attrib – Name der auszuwertenden Property.
+- filter - Ein regulärer Ausdruck, der auf die „name“-Propertie der „city“ angewandt werden soll. Nur solche „city“s, die dem regulären Ausdruck entsprechen sollen in die Auswertung aufgenommen werden.
 
 Die Ausgabe besteht aus einem „results“-Array und darunter einzelnen „result“-Objekten. Jedes „result“ hat eine Property „name“, die den Namen der entsprechenden „operation“ entnommen ist. Als weitere Property enthält das "result"-Objekt eine Property value in dem das Ergebnis der Berechnung steht.
 
