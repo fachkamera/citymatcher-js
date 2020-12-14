@@ -23,7 +23,7 @@ Zum Lösen des Problems werden folgende Dateien geliefert:
 
 - data.json Beispielhafte Eingabe-Daten
 - operations.json Beispiel für Operationen, die berechnet werden sollen.
-- output.json Die Ergebnisse für die mitgelieferten Beispiel-Daten.
+- results.json Die Ergebnisse für die mitgelieferten Beispiel-Daten.
 
 ## Hinweise zur Abgabe
 Um das Ergebnis uns zur Verfügung zu stellen, erstelle bitte einen Fork und sende uns die URL mit deinen Ergebnissen an: alex.lizenberg@outletcity.com
