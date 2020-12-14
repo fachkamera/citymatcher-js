@@ -4,7 +4,7 @@
          "name":"Stuttgart",
          "population":601646,
          "area":207.36,
-         "values" : [{"name" : "population", "value" : 601646}, , {"name" : "area", "value" : 207.36}]
+         "values" : [{"name" : "population", "value" : 601646}, {"name" : "area", "value" : 207.36}]
       },
       {
          "name":"Moskau",
