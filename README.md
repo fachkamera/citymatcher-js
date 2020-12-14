@@ -1,7 +1,7 @@
 # JavaScript Task Challenge
 
 ## Zu lösendes Problem
-Bitte erstellen Sie eine variable Datenauswertung, die mit einer Daten- (data.json) und einer Anweisungsdatei (operations.json) beliefert werden und eine Ausgabedatei (output.json) erzeugen soll. Alle Dateien liegen in einem JSON-Format vor. Der Aufbau der Dateien wird nicht durch ein Schema vorgegeben und ist nur anhand der Beispieldateien dokumentiert.
+Bitte erstelle eine variable Datenauswertung, die mit einer Daten- (data.json) und einer Anweisungsdatei (operations.json) beliefert werden und eine Ausgabedatei (output.json) erzeugen soll. Alle Dateien liegen in einem JSON-Format vor. Der Aufbau der Dateien wird nicht durch ein Schema vorgegeben und ist nur anhand der Beispieldateien dokumentiert.
 
 Die Eingabedaten sind in einem einfachen Format gehalten: Ein "cities" Array enthält mehrere Objekte, die eine variable Anzahl von Properties enthalten können. In unserem Beispiel hat jedes „city“-Objekt drei Properties. Eine Property ist immer vorhanden, diese heißt „name“ und wird zur Filterung benutzt.
 
@@ -26,4 +26,4 @@ Zum Lösen des Problems werden folgende Dateien geliefert:
 - output.json Die Ergebnisse für die mitgelieferten Beispiel-Daten.
 
 ## Hinweise zur Abgabe
-Das Ergebnis senden Sie bitte an alex.lizenberg@outletcity.com
+Um das Ergebnis uns zur Verfügung zu stellen, erstelle bitte einen Fork und sende uns die URL mit deinen Ergebnissen an: alex.lizenberg@outletcity.com
