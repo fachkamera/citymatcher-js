@@ -14,7 +14,7 @@ Die Anweisungen sind ähnlich aufgebaut. Ein Array namens „operations“ enth�
 
 Die Ausgabe besteht aus einem „results“-Array und darunter einzelnen „result“-Objekten. Jedes „result“ hat eine Property „name“, die den Namen der entsprechenden „operation“ entnommen ist. Als weitere Property enthält das "result"-Objekt eine Property value in dem das Ergebnis der Berechnung steht.
 
-Angehängt finden Sie drei Dateien, die eine solche Auswertung vornehmen.
+Angehängt findest du drei Dateien, die eine solche Auswertung vornehmen.
 
 Programmiert werden soll eine Implementierung mit Hilfe von JavaScript, bei der alle Standard-Bibliotheken der von Ihnen verwendeten Sprache benutzt werden dürfen. Die Dateinamen dürfen fest in das Programm eingebaut werden. Gleitkommazahlen sollen mit genau zwei Nachkommastellen ausgegeben werden.
 
