@@ -27,6 +27,13 @@
          "func":"max",
          "attrib":"population",
          "filter":".*e.*n.*"
+      },
+      {
+         "name": "Metro lines avg",
+         "type": "attrib",
+         "func": "average",
+         "attrib": "metroLines",
+         "filter": ".*" 
       }
    ]
 }
